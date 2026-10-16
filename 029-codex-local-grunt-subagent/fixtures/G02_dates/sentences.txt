@@ -1,0 +1,20 @@
+1	The meeting was moved to 3 March 2025.
+2	Invoice dated 12/07/2024 (day/month/year).
+3	Deadline: July 4, 2026.
+4	The shop reopened on the 21st of September 2023.
+5	Released 2019-11-05 in Europe.
+6	We met on Feb. 29, 2024.
+7	Shipped 01.10.2025 (European format, day first).
+8	Her flight leaves on Sunday, 8 June 2025.
+9	The lease ends 31-Dec-2027.
+10	Report filed on 5/14/2022 (US format).
+11	The bridge opened on 27 May 1937.
+12	Payment received Jan 2nd, 2026.
+13	Warranty valid until 2028/02/15.
+14	The concert is on the 1st of November, 2025.
+15	Exam scheduled for 09 Aug 2024.
+16	He was born on April 23rd 1990.
+17	Version 2 shipped on 3rd Oct 2021.
+18	Membership started 06/30/2023 (US format).
+19	The festival begins 15 Jan. 2026.
+20	Closing date: 2025.12.01 (year.month.day).

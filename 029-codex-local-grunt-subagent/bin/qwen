@@ -1,0 +1,8 @@
+#!/bin/bash
+# qwen "PROMPT" [MAX_NEW_TOKENS] : ask the local Qwen3-0.6B (CPU) and print its answer
+python3 - "$1" "${2:-128}" <<'P'
+import json, sys, urllib.request
+r = urllib.request.Request("http://127.0.0.1:8765/gen", data=json.dumps({"prompt": sys.argv[1], "max_new_tokens": int(sys.argv[2])}).encode(),
+                           headers={"Content-Type": "application/json"})
+print(json.load(urllib.request.build_opener(urllib.request.ProxyHandler({})).open(r, timeout=300))["text"])
+P
