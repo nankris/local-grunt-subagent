@@ -1,0 +1,6 @@
+start 1792008000 jobs=4 P=1
+{"cond": "codex_plus_qwen", "task": "G01_sentiment", "rep": 1, "passed": 1, "subtests_passed": "", "total_tokens": 138301, "cached_input_tokens": 123136, "est_cost_usd": 0.05026, "model_calls": 9, "compactions": 0, "wall_s": 61.4, "limit_error": "", "retries": 0, "rl_primary_used_pct": 55.0}
+{"cond": "codex_plus_qwen", "task": "G02_dates", "rep": 1, "passed": 1, "subtests_passed": "", "total_tokens": 171253, "cached_input_tokens": 155264, "est_cost_usd": 0.05536, "model_calls": 11, "compactions": 0, "wall_s": 70.0, "limit_error": "", "retries": 0, "rl_primary_used_pct": 56.0}
+{"cond": "codex_plus_qwen", "task": "G01_sentiment", "rep": 2, "passed": 1, "subtests_passed": "", "total_tokens": 154628, "cached_input_tokens": 143360, "est_cost_usd": 0.04426, "model_calls": 10, "compactions": 0, "wall_s": 49.6, "limit_error": "", "retries": 0, "rl_primary_used_pct": 56.0}
+{"cond": "codex_plus_qwen", "task": "G02_dates", "rep": 2, "passed": 1, "subtests_passed": "", "total_tokens": 138857, "cached_input_tokens": 127744, "est_cost_usd": 0.04247, "model_calls": 9, "compactions": 0, "wall_s": 60.6, "limit_error": "", "retries": 0, "rl_primary_used_pct": 57.0}
+done 1792008242

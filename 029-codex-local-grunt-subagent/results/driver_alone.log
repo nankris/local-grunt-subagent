@@ -1,0 +1,6 @@
+start 1792008000 jobs=4 P=1
+{"cond": "codex_alone", "task": "G01_sentiment", "rep": 1, "passed": 1, "subtests_passed": "", "total_tokens": 59535, "cached_input_tokens": 51712, "est_cost_usd": 0.02443, "model_calls": 4, "compactions": 0, "wall_s": 26.1, "limit_error": "", "retries": 0, "rl_primary_used_pct": 54.0}
+{"cond": "codex_alone", "task": "G02_dates", "rep": 1, "passed": 1, "subtests_passed": "", "total_tokens": 59093, "cached_input_tokens": 53120, "est_cost_usd": 0.02137, "model_calls": 4, "compactions": 0, "wall_s": 23.1, "limit_error": "", "retries": 0, "rl_primary_used_pct": 55.0}
+{"cond": "codex_alone", "task": "G01_sentiment", "rep": 2, "passed": 1, "subtests_passed": "", "total_tokens": 59220, "cached_input_tokens": 52736, "est_cost_usd": 0.02165, "model_calls": 4, "compactions": 0, "wall_s": 33.9, "limit_error": "", "retries": 0, "rl_primary_used_pct": 55.0}
+{"cond": "codex_alone", "task": "G02_dates", "rep": 2, "passed": 1, "subtests_passed": "", "total_tokens": 58973, "cached_input_tokens": 50816, "est_cost_usd": 0.02554, "model_calls": 4, "compactions": 0, "wall_s": 22.9, "limit_error": "", "retries": 0, "rl_primary_used_pct": 56.0}
+done 1792008107

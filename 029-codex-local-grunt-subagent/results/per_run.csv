@@ -1,0 +1,9 @@
+cond,task,rep,passed,correct,total,accuracy,total_tokens,cached,uncached,output,est_cost_usd,model_calls,wall_s,qwen_calls,qwen_span_s,qwen_raw_items,qwen_raw_correct,codex_overrides
+codex_alone,G01_sentiment,1,1,24,24,1.0,59535,51712,7371,452,0.02443,4,26.1,0,0.0,0,,
+codex_alone,G02_dates,1,1,20,20,1.0,59093,53120,5459,514,0.02137,4,23.1,0,0.0,0,,
+codex_plus_qwen,G01_sentiment,1,1,24,24,1.0,138301,123136,14213,952,0.05026,9,61.4,24,28.7,24,22.0,2.0
+codex_alone,G01_sentiment,2,1,24,24,1.0,59220,52736,6058,426,0.02165,4,33.9,0,0.0,0,,
+codex_alone,G02_dates,2,1,20,20,1.0,58973,50816,7639,518,0.02554,4,22.9,0,0.0,0,,
+codex_plus_qwen,G02_dates,1,1,20,20,1.0,171253,155264,15007,982,0.05536,11,70.0,20,41.9,20,18.0,2.0
+codex_plus_qwen,G01_sentiment,2,1,24,24,1.0,154628,143360,10344,924,0.04426,10,49.6,24,31.0,24,19.0,5.0
+codex_plus_qwen,G02_dates,2,1,20,20,1.0,138857,127744,10179,934,0.04247,9,60.6,20,28.5,20,18.0,2.0
